@@ -1,0 +1,12 @@
+# 學員自行安裝的 skill
+.agents/
+.claude/
+skills-lock.json
+
+# 範例產出（學員自己跑出來）
+example/*.xlsx
+example/*.pptx
+example/*.docx
+example/*.pdf
+example/output/
+*.py
